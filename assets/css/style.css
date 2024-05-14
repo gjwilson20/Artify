@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+/* General styles */
+body {
+    min-width: 100vh;
+    display:flex;
+    flex-direction: column;
+    /*General project styles */
+    color: green;
+}
+
 /* Header */
 header {
 background-color: whitesmoke;
@@ -13,6 +22,8 @@ background-color: whitesmoke;
 /* Main content */
 main {
     background-color: yellow;
+    /* Make main element take up space to push footer to bottom */
+    flex: 1 0 auto;
 }
 
 /* Footer */
