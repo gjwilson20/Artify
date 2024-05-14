@@ -1,0 +1,19 @@
+/* Asterisk wildcard selector to overide default browser styles */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+background-color: whitesmoke;
+}
+
+/* Main content */
+main {
+    background-color: yellow;
+}
+
+/* Footer */
+footer {background-color: blue;}
