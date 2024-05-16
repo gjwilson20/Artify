@@ -42,7 +42,7 @@ height: 70px;
 }
 
 h1 {
-    font-family: 'lemon' sans-serif
+    font-family: 'Lemon' sans-serif;
 }
 
 /*styling for list in heading */
@@ -92,7 +92,8 @@ nav{
 }
 
 .nav-toggle-label{
-    font-size: 2rem;
+    font-size: 1.75rem;
+    color:#000000
 }
 
 /* Main content */
@@ -127,5 +128,11 @@ footer {background-color: blue;}
 .nav-toggle-label{
     display: none;
 }
-
 } 
+
+/*media query: tablets and larger (992px and up) */
+@media screen and (min-width:992px){
+#menu a:hover{
+    border-bottom: 1px solid #404040;
+}
+}
