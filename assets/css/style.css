@@ -11,7 +11,7 @@
 /* General styles */
 body {
     /*General project styles */
-    color: green;
+    color: #404040;
     font-family: 'Lato', sans-serif
 }
 
@@ -31,6 +31,9 @@ position: fixed;
 z-index: 99;
 width: 100%;
 box-shadow: 0 2.5px 5px #404040;
+display: flex;
+justify-content: space-between;
+align-items: baseline;
 }
 
 h1 {
@@ -57,6 +60,11 @@ a{
     text-decoration: none;
 }
 
+#menu > li {
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+}
+
 /* Navbar styles with dropdown toggle */
 nav{
     position: absolute;
@@ -66,19 +74,28 @@ nav{
     padding: 0 1rem;
     box-shadow: 0 2.5px 5px #404040;
     display:none;
+    top: 100%;
 }
 
-#menu > li {
-    margin-bottom: 0.5rem;
-    text-decoration: none;
+/* Nav toggle */
+#nav-toggle:checked~nav{
+    display: block;
+    }
+
+#nav-toggle{
+    display: none;
 }
 
+.nav-toggle-label{
+    font-size: 2rem;
+}
 
 /* Main content */
 main {
     background-color: yellow;
     /* Make main element take up space to push footer to bottom */
     flex: 1 0 auto;
+    margin-top: 110px;
 }
 
 /* Footer */
