@@ -98,7 +98,7 @@ nav{
 
 /* Main content */
 main {
-    background-color: yellow;
+    background-color: #ffffff;
     /* Make main element take up space to push footer to bottom */
     flex: 1 0 auto;
     margin-top: 70px;
@@ -150,4 +150,48 @@ footer{
 #menu a:hover{
     border-bottom: 1px solid #242424;
 }
+}
+
+/* About section styling */
+h2{
+    font-size: 1rem;
+    font: 'lato';
+}
+
+h3 {
+    font-size: 0.75rem;
+    font: "Lato";
+}
+
+#about {
+    background: rgba(254, 28, 29, 0.6);
+}
+
+/* Signup section styling */
+h2{
+    font-size: 1rem;
+    font: 'lato';
+}
+
+h3 {
+    font-size: 0.75rem;
+    font: "Lato";
+}
+
+#signup {
+    background: rgba(51, 36, 249, 0.6);
+}
+/* Contact Us section styling */
+h2{
+    font-size: 1rem;
+    font: 'lato';
+}
+
+h3 {
+    font-size: 0.75rem;
+    font: "Lato";
+}
+
+#contact {
+    background: rgba(254, 235, 37, 0.6);
 }
