@@ -49,9 +49,23 @@ h1 {
 #menu li a:hover{
     color:#fe1c1d
 }
+.active {
+    border-bottom: 1px solid #404040;
+}
 
 a{
     text-decoration: none;
+}
+
+/* Navbar styles with dropdown toggle */
+nav{
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2.5px 5px #404040;
+    display:none;
 }
 
 #menu > li {
