@@ -33,10 +33,32 @@ width: 100%;
 box-shadow: 0 2.5px 5px #404040;
 }
 
-
 h1 {
     font-family: 'lemon' sans-serif
 }
+
+/*styling for list in heading */
+#menu {
+    letter-spacing: 2px;
+    list-style-type: none;
+    font-size: 110%;
+    color:#404040
+}
+
+/* list items styling */
+#menu li a:hover{
+    color:#fe1c1d
+}
+
+a{
+    text-decoration: none;
+}
+
+#menu > li {
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+}
+
 
 /* Main content */
 main {
