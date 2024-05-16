@@ -151,7 +151,13 @@ footer{
     border-bottom: 1px solid #242424;
 }
 }
-
+/* main body styling */
+.section{
+    flex-direction: column;
+    flex-grow: inherit;
+    justify-content: space-between;
+    align-items: left;
+}
 /* About section styling */
 h2{
     font-size: 1rem;
