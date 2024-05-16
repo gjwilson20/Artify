@@ -11,7 +11,7 @@
 /* General styles */
 body {
     /*General project styles */
-    color: #404040;
+    color: #242424;
     font-family: 'Lato', sans-serif
 }
 
@@ -50,7 +50,7 @@ h1 {
     letter-spacing: 2px;
     list-style-type: none;
     font-size: 110%;
-    color:#404040
+    color:#242424
 }
 
 /* list items styling */
@@ -58,7 +58,7 @@ h1 {
     color:#fe1c1d
 }
 .active {
-    border-bottom: 1px solid #404040;
+    border-bottom: 1px solid #242424;
 }
 
 a{
@@ -77,7 +77,7 @@ nav{
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2.5px 5px #404040;
+    box-shadow: 0 2.5px 5px #242424;
     display:none;
     top: 100%;
 }
@@ -105,7 +105,17 @@ main {
 }
 
 /* Footer */
-footer {background-color: blue;}
+
+footer{
+    background-color: #242424;
+}
+
+#socials{
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
 
 /*media query: tablets and larger (768px and up) */
 @media screen and (min-width:768px){
@@ -133,6 +143,6 @@ footer {background-color: blue;}
 /*media query: tablets and larger (992px and up) */
 @media screen and (min-width:992px){
 #menu a:hover{
-    border-bottom: 1px solid #404040;
+    border-bottom: 1px solid #242424;
 }
 }
