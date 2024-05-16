@@ -7,12 +7,17 @@
 
 /* General styles */
 body {
-    min-width: 100vh;
-    display:flex;
-    flex-direction: column;
     /*General project styles */
     color: green;
 }
+
+/* flex wrap */
+.flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 
 /* Header */
 header {
