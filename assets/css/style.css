@@ -33,7 +33,12 @@ width: 100%;
 box-shadow: 0 2.5px 5px #404040;
 display: flex;
 justify-content: space-between;
-align-items: baseline;
+align-items:center;
+height: 70px;
+}
+
+#logo{
+    vertical-align: auto;
 }
 
 h1 {
@@ -95,8 +100,32 @@ main {
     background-color: yellow;
     /* Make main element take up space to push footer to bottom */
     flex: 1 0 auto;
-    margin-top: 110px;
+    margin-top: 70px;
 }
 
 /* Footer */
 footer {background-color: blue;}
+
+/*media query: tablets and larger (768px and up) */
+@media screen and (min-width:768px){
+  nav{
+    display:block;
+    position:sticky;
+    box-shadow: none;
+    width:fit-content;
+    padding-right: 1rem;
+  }  
+
+#menu{
+    display:flex;
+}
+
+#menu >li {
+    padding-left: 1.5rem;
+}
+
+.nav-toggle-label{
+    display: none;
+}
+
+} 
