@@ -104,6 +104,11 @@ main {
     margin-top: 70px;
 }
 
+#about {
+    background: rgba(254, 28, 29, 0.6);
+}
+
+
 /* Footer */
 
 footer{
@@ -150,54 +155,4 @@ footer{
 #menu a:hover{
     border-bottom: 1px solid #242424;
 }
-}
-/* main body styling */
-.section{
-    flex-direction: column;
-    flex-grow: inherit;
-    justify-content: space-between;
-    align-items: left;
-}
-/* About section styling */
-h2{
-    font-size: 1rem;
-    font: 'lato';
-}
-
-h3 {
-    font-size: 0.75rem;
-    font: "Lato";
-}
-
-#about {
-    background: rgba(254, 28, 29, 0.6);
-}
-
-/* Signup section styling */
-h2{
-    font-size: 1rem;
-    font: 'lato';
-}
-
-h3 {
-    font-size: 0.75rem;
-    font: "Lato";
-}
-
-#signup {
-    background: rgba(51, 36, 249, 0.6);
-}
-/* Contact Us section styling */
-h2{
-    font-size: 1rem;
-    font: 'lato';
-}
-
-h3 {
-    font-size: 0.75rem;
-    font: "Lato";
-}
-
-#contact {
-    background: rgba(254, 235, 37, 0.6);
 }
