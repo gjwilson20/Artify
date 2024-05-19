@@ -104,21 +104,16 @@ main {
     margin-top: 70px;
 }
 
-#signup {
-    height: 33.3vh;
-    box-shadow: 0 2.5px 5px #feeb25;
-}
-
-#contact {
-    height: 33.3vh;
-    box-shadow: 0 2.5px 5px #ffffff;
-}
-
 p {
     font-size: 0.75rem;
     font: "Lato";
 }
 
+h2{
+    text-align:center;
+}
+
+/* heading font colors */
 .aboutus{
     color:#fe1c1d
 }
@@ -136,7 +131,7 @@ p {
     background: rgb(234, 152, 152);
     text-align: center;
     padding: 15px 0;
-    min-height: 50vh;
+    min-height: 40vh;
 }
 
 img2 {
@@ -148,13 +143,25 @@ img2 {
     padding-right: 10px;
   }
 
-h2{
-    text-align:center;
-}
+
 
 .signupdiv{
     box-shadow:#3324f9;
     background: rgb(201, 219, 241);
+    text-align: center;
+    padding: 15px 0;
+    min-height: 50vh;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+  }
+
+  .contactusdiv{
+    box-shadow:#3324f9;
+    background: rgb(243, 255, 175);
     text-align: center;
     padding: 15px 0;
     min-height: 50vh;
