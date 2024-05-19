@@ -126,9 +126,18 @@ h2{
     color:#feeb25
 }
 
+.signupsection{
+    box-shadow: 0 2.5px 5px #feeb25;
+}
+
+.aboutsection{
+    box-shadow: 0 2.5px 5px #3324f9;
+}
+
+
+
 .aboutdiv{
-    box-shadow:#3324f9;
-    background: rgb(234, 152, 152);
+    background: #fe1c1c1b;
     text-align: center;
     padding: 15px 0;
     min-height: 40vh;
@@ -146,8 +155,7 @@ img2 {
 
 
 .signupdiv{
-    box-shadow:#3324f9;
-    background: rgb(201, 219, 241);
+    background: #3224f91f;
     text-align: center;
     padding: 15px 0;
     min-height: 50vh;
@@ -160,8 +168,7 @@ img2 {
   }
 
   .contactusdiv{
-    box-shadow:#3324f9;
-    background: rgb(243, 255, 175);
+    background: #feec2539;
     text-align: center;
     padding: 15px 0;
     min-height: 50vh;
