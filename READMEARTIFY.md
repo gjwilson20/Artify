@@ -72,4 +72,15 @@ there are no unfixed bugs
 ## deployment
 The site was deployed to github pages
 the steps to deploy are as follows:
-  - in the github rep
+  - in the github repository click on deployments on the right hand side
+  - when the new screen opens click on the open link in new tab button next to the top deployment
+a link can be found here ![Artify](https://gjwilson20.github.io/Artify/)
+
+## credits
+### content
+the code to make the drop down toggle in the nav bar was taken from the love running project and from notes I had made along the way. 
+
+When coding the site I used a range of websites to troubleshoot problems I came across and ended up typing code from places to see if it worked, I often had to amend this to make it fit my design and ensure it worked for my project. Sites i looked at included w3schools and Stackoverflow. 
+
+### media
+the images used on the site were taken from pexels
