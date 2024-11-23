@@ -26,7 +26,7 @@ Users of the site will be able to find all the information needed to know about 
 ## Features
 
 Navigation - featured at the top of the page is the navigation bar which shows the club logo in the left corner which links to the top of the page.
-![AboutUs](assets/readme_img/heading with box shadow.jpg)
+![AboutUs](gjwilson20/Artify/assets/readme_img/heading with box shadow.jpg)
 
 
 The other navigation links are on the right: about us, sign up and contact which link to different sections of the same page.
