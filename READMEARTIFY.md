@@ -23,6 +23,14 @@ Users of the site will be able to find all the information needed to know about 
 
 ***
 
+## Wireframe
+
+Below is a design template on how I would like my site to look in an attempt to meet my user stories above.
+
+![wireframe](assets/readme_img/wireframe.jpg)
+
+***
+
 ## Features
 
 #### Navigation Section
