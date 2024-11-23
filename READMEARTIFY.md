@@ -25,7 +25,7 @@ Users of the site will be able to find all the information needed to know about 
 
 ## Features
 
-#### Navigation
+#### Navigation Section
 
 When first loading the page, users are taken to the landing page of the site which is easily identified with the primary colours associated with the children who will be using the clubs.
 ![LandingPage](assets/readme_img/landing_page.jpg)
@@ -67,18 +67,28 @@ The background colour links to the primary colours associated with the brand and
 The heading title also links into the box shadows which identify the start of the section.
 
 
-#### Sign up section
+#### Sign Up Section
+
+The sign up section starts by having a bold blue box shadow to differentiate it from the previous section and the heading also links to this as it's in the same colour as the box shadow.
+
 ![signup](assets/readme_img/sign_up.jpg)
 
-The sign up form has details for parents about when clubs run and for which age groups and states the cost of the clubs. 
+The sign up section is laid out in a centralised way and has a range of features within it. 
 
-There is a table within the section showing the times and days clubs are run and for which age range.
+![signup features](assets/readme_img/sign_up_features.jpg)
 
-There is a form on the section which allows parents to provide their child's name, the parents contact email and also a choice of check boxes to select which club they want to enrol their child on.
+The section starts off with a table which clearly shows the times and days clubs are run and for which age range so that users can see what's on offer and whether this fits their needs.
 
-The section is coloured to allow parents to know they are on a different part of the site when on smaller devices.
+![table](assets/readme_img/table.jpg)
 
-## Contact section
+Following this there is information which stipulates how long clubs last and the cost of these for participants.
+Should users then wish to sign their children up to a particular club, there are input fields where they can place their child's name, the adult's email address and some check boxes to select which date and time they wish to enrol their child on.
+![inputfields](assets/readme_img/input_fields.jpg)
+
+![checkboxes](assets/readme_img/check_boxes_and_submit_button.jpg)
+
+#### Contact Us Section
+
 
 ![contactus](https://github.com/gjwilson20/Artify/assets/166746021/f9b4f843-0c61-4307-b539-00a6fe3679fc)
 
