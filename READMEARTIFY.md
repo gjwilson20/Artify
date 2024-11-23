@@ -25,6 +25,8 @@ Users of the site will be able to find all the information needed to know about 
 
 ## Features
 
+#### Navigation
+
 When first loading the page, users are taken to the landing page of the site which is easily identified with the primary colours associated with the children who will be using the clubs.
 ![LandingPage](assets/readme_img/landing_page.jpg)
 
@@ -53,8 +55,8 @@ The pencil fits with the art club theme and when clicked opens up the navigation
 ![dropdown](assets/readme_img/drop_down_menu.jpg)
 
 
-## The about us section
-![AboutUs](https://github.com/gjwilson20/Artify/assets/166746021/ca33d38c-7e59-4b90-a089-3c189b0f7d1a)
+#### The about us section
+![AboutUs](assets/readme_img/about_us.jpg)
 
 The section gives details about what the club offers their members and has an image of children promoting the club which was taken from Pexels.
 
