@@ -42,7 +42,7 @@ The other navigation links are on the right: about us, sign up and contact which
 ![navlinks](assets/readme_img/section_links.jpg)
 
 The navigation bar at the top is sectioned off from the different areas below with box shadows and remains present when scrolling the site so that users can easily access the elements they need at all times.
-![heading] (assets/readme_img/heading_with_box_shadow.jpg)
+![heading](assets/readme_img/heading_with_box_shadow.jpg)
 
 The naviation is in a font that works with the logo font and is replaced with a bouncing pencil image that is clickable and hidden when on smaller device screens. 
 
@@ -50,7 +50,7 @@ The naviation is in a font that works with the logo font and is replaced with a 
 
 The pencil fits with the art club theme and when clicked opens up the navigation menu options to take users to the relevant section they want to know about. The option they choose changes colour when clicked.
 
-![dropdown] (assets/readme_img/drop_down_menu.jpg)
+![dropdown](assets/readme_img/drop_down_menu.jpg)
 
 
 ## The about us section
