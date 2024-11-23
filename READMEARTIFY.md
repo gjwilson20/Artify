@@ -8,6 +8,21 @@ Users of the site will be able to find all the information needed to know about 
 
 ***
 
+## User Stories 
+|Story No.|Story|
+| ------------- | ------------- |
+|1| As a user, <br> I want to be able to access the site on laptop, tablet and mobile devices <br> so that I can easily access the site whenever I need to  <br><br>I know I am done when users can access the site in a range of ways |
+|2|As a user, <br> I want to be able to recognise the brand easily <br> so that I know I am viewing the right page for my needs.<br><br>I know I am done when users can recognise the site easily through colours, logo and favicons.|
+|3|As a user, <br> I want to be able to navigate the site easily <br> so that I can find the relevant information I need quickly and efficiently. <br><br> I know I am done when users can find different sections of the site with ease.|
+|4|As a user<br> I want to be able to access the sites's social media easily <br> so that I can review the content of the clubs to know their suitability for my needs. <br> <br> I know I am done when users can view the social media sites easily through icons in the footer.|
+|5|As a user, <br> I want to be able to know what the club offers  <br> so that I can understand whether it is suitable for my needs. <br> <br> I know I am done when users are provided the information about the club on launching the site. |
+|6|As a user, <br>I want to be able to know the times of clubs.<br> so that I know if they fit into my schedule. <br> <br> I know I am done when users can understand the club date, who its provided for and when it's operating. |
+|7|As a user, <br>I want to be able to know the cost of the club  <br> so that I can decide if it's within my budget or not.<br> <br> I know I am done when users can see the cost of the clubs easily without havinng to search too far. |
+|8|As a user, <br>I want to be able to sign myself up to clubs online.<br> so that I can sign up at any point that's convenient to myself without having to phone and speak to someone. <br> <br> I know I am done with users can choose their own clubs, input their name and their email address so that club operators can sign clients up effectively. |
+|9|As a user, <br>I want to be able to make contact with the club  <br> so that I can ask questions about anything which isn't mentioned on the club site.<br> <br> I know I am done when users can input free text questions or comments and send them directly to the club. |
+
+***
+
 ## Features
 
 Navigation - featured at the top of the page is the navigation bar which shows the club logo in the left corner which links to the top of the page.
