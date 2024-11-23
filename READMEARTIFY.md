@@ -28,6 +28,7 @@ Users of the site will be able to find all the information needed to know about 
 When first loading the page, users are taken to the landing page of the site which is easily identified with the primary colours associated with the children who will be using the clubs.
 ![LandingPage](assets/readme_img/landing_page.jpg)
 
+
 Other features on the landing page which make the site easily recognisable are features such as the favicon in the browser tab; again in primary colours with a bold icon.
 
 ![favicon](assets/readme_img/favicon_tab.jpg)
@@ -36,11 +37,21 @@ Featured at the top of the page is the navigation bar which shows the club logo 
 
 ![logo](assets/readme_img/logo.jpg)
 
-The other navigation links are on the right: about us, sign up and contact which link to different sections of the same page.
+The other navigation links are on the right: about us, sign up and contact which link to different sections of the same page. These change colour to show which have been selected.
 
-The naviation is in a font that works with the logo font and is replaced with a bouncing pencil image that is clickable and hidden when on smaller device screens.
+![navlinks](assets/readme_img/section_links.jpg)
 
-I ensured that there was an appropriate favicon created to match the brand colours and show in browser tabs.
+The navigation bar at the top is sectioned off from the different areas below with box shadows and remains present when scrolling the site so that users can easily access the elements they need at all times.
+![heading] (assets/readme_img/heading_with_box_shadow.jpg)
+
+The naviation is in a font that works with the logo font and is replaced with a bouncing pencil image that is clickable and hidden when on smaller device screens. 
+
+![pencil](assets/readme_img/different_screen_sizes.jpg)
+
+The pencil fits with the art club theme and when clicked opens up the navigation menu options to take users to the relevant section they want to know about. The option they choose changes colour when clicked.
+
+![dropdown] (assets/readme_img/drop_down_menu.jpg)
+
 
 ## The about us section
 ![AboutUs](https://github.com/gjwilson20/Artify/assets/166746021/ca33d38c-7e59-4b90-a089-3c189b0f7d1a)
