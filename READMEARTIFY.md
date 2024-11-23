@@ -115,32 +115,43 @@ The footer of the page is easily identifiable as it is a dark grey colour and co
 
 The social media logos act as links and take users away from the site by opening the links in new tabs on their laptop or phone browsers.
 
-
-
-
-
+***
 
 ## Testing
-![HTMLTesting](https://github.com/gjwilson20/Artify/assets/166746021/b50af7e6-83ca-4dc2-92d8-433e076fafb1)
-![CSSTesting](https://github.com/gjwilson20/Artify/assets/166746021/8ae852ba-ddb4-467b-ae0d-c3502967f1d3)
 
+#### Manual Testing
 - I tested the page works on different browsers including chrome and safari.
-- I confirmed the project is responsive and looks good using devtools device toolbar.
+- I confirmed the project is responsive and looks good using devtools device toolbar as seen at the start of this readme document.
 - I confirmed that the navigation and other sections were all readable and easy to understand.
-- I have confirmed that forms work and entries are required in the fields and that submit buttons work too.
+- I tested that the logo took me back to the top of the page when clicked to ensure users were able to move around the site quickly and easily.
+- I tested that the links on the right hand side of the navigation bar took me to the relevant part of the site when clicked.
+- I checked that the links in the nav bar changed colour when clicked.
+- I tested that the links in the nav bar changed to become a bouncing pencil on smaller devices
+- I checked that the bouncing pencil opened up a set of links which users could click and be taken to different sections of the site on smaller devices.
+- I have confirmed that input boxes have prompt text to ensure users know how to use them.
+- I tested submit buttons worked
+- I checked that the check boxes worked and allowed users to select the type of club they wanted to attend
+- I have confirmed that the free text box in the contact us section allowed users to type in free text to submit to the site owners.
+- I tested that the social media icons in the footer section of the site are working and link to the different social media provider sites.
+- I checked that the social media icons opened up in new tabs when they were clicked so that users didn't lose the Artify website they were on.
+
+## validator testing
+- html - no errors were returned when passed through the official w3C validator.
+
+![HTMLTesting](https://github.com/gjwilson20/Artify/assets/166746021/b50af7e6-83ca-4dc2-92d8-433e076fafb1)
+
+- css - no errors were returned when passed through the official jigsaw validator.
+
+![CSSTesting](https://github.com/gjwilson20/Artify/assets/166746021/8ae852ba-ddb4-467b-ae0d-c3502967f1d3)
+- accessibility - I checked that colours and fonts chosen were easy to read and accessible by running it through lighthouse.
+
+![lighthouse](https://github.com/gjwilson20/Artify/assets/166746021/701a8095-c96a-4b2f-9aad-3fc37f322d1c)
+
 
 ## Bugs
 when I deployed the project to GitHub Pages I discovered that there were a number of typing errors including / not needed and forms with no closing tags etc.  
 
 I also found that some file names were not useable due to spaces left between words. These have been rectified.
-
-## validator testing
-- html - no errors were returned when passed through the official w3C validator.
-- css - no errors were returned when passed through the official jigsaw validator.
-- accessibility - I checked that colours and fonts chosen were easy to read and accessible by running it through lighthouse.
-
-![lighthouse](https://github.com/gjwilson20/Artify/assets/166746021/701a8095-c96a-4b2f-9aad-3fc37f322d1c)
-
 
 ## unfixed bugs
 there are no unfixed bugs
