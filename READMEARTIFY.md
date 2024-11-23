@@ -82,21 +82,43 @@ The section starts off with a table which clearly shows the times and days clubs
 ![table](assets/readme_img/table.jpg)
 
 Following this there is information which stipulates how long clubs last and the cost of these for participants.
-Should users then wish to sign their children up to a particular club, there are input fields where they can place their child's name, the adult's email address and some check boxes to select which date and time they wish to enrol their child on.
+Should users then wish to sign their children up to a particular club, there are input fields where they can place their child's name, the adult's email address and some check boxes to select which date and time they wish to enrol their child on. The input boxes come with prompts as to what users need to input into each field.
+
 ![inputfields](assets/readme_img/input_fields.jpg)
 
 ![checkboxes](assets/readme_img/check_boxes_and_submit_button.jpg)
 
 #### Contact Us Section
 
+The contact us section also begins with a box shadow and a change of colour to identify the user had moved into a new section.
 
-![contactus](https://github.com/gjwilson20/Artify/assets/166746021/f9b4f843-0c61-4307-b539-00a6fe3679fc)
+The title for the section is also in the same colour of the box shadow to add to the style of the site.
 
-The contact section allows parents to ask further questions should they need to in a free text box.
+![contactus](assets/readme_img/contact_us_box_shadow.jpg)
 
-The section is coloured to help users navigate the site easily.
+The features of the sectin are centralised and with a range of images of children enjoying the activities and themselves at the club. 
 
-There are more images showing some of the activities and children enjoying themselves at the club.
+![contact](assets/readme_img/contact_us.jpg)
+
+Within the section is a contact us box which allows users to contact the club with any queries they may have about the clubs which aren't answered on the site. The text box comes with a prompt as to what users need to input into it.
+
+![freetext](assets/readme_img/free_text_box.jpg)
+
+At the bottom of the section are a range of images. These images are responsive and adapt to different screen sizes in that they reposition themselves on mobile phones, tablets and laptops to look good.
+
+![screensizes](assets/readme_img/diff_screen_sizes.jpg)
+
+#### Footer
+The footer of the page is easily identifiable as it is a dark grey colour and contains the different contrasting logos for social media accounts to allow users to discover more information about the clubs and see more of the activities which children are completing.
+
+![footer](assets/readme_img/footer_with_social_media.jpg)
+
+The social media logos act as links and take users away from the site by opening the links in new tabs on their laptop or phone browsers.
+
+
+
+
+
 
 ## Testing
 ![HTMLTesting](https://github.com/gjwilson20/Artify/assets/166746021/b50af7e6-83ca-4dc2-92d8-433e076fafb1)
