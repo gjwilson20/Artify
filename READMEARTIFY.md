@@ -62,8 +62,13 @@ The section gives details about what the club offers their members and has an im
 
 The section clearly talks about some of the activities which would be on offer to pupils.
 
-## Sign up form
-![signup](https://github.com/gjwilson20/Artify/assets/166746021/8d59c5fa-965c-410c-bfef-c1913d0c3453)
+The background colour links to the primary colours associated with the brand and allows you to know you're still in that section and not gone into another.
+
+The heading title also links into the box shadows which identify the start of the section.
+
+
+#### Sign up section
+![signup](assets/readme_img/sign_up.jpg)
 
 The sign up form has details for parents about when clubs run and for which age groups and states the cost of the clubs. 
 
