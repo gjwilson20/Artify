@@ -29,9 +29,11 @@ When first loading the page, users are taken to the landing page of the site whi
 ![LandingPage](assets/readme_img/landing_page.jpg)
 
 Other features on the landing page which make the site easily recognisable are features such as the favicon in the browser tab; again in primary colours with a bold icon.
+
 ![favicon](assets/readme_img/favicon_tab.jpg)
 
 Featured at the top of the page is the navigation bar which shows the club logo in the left corner which links to the top of the page should users need to get back to the top quickly and efficiently.
+
 ![logo](assets/readme_img/logo.jpg)
 
 The other navigation links are on the right: about us, sign up and contact which link to different sections of the same page.
