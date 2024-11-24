@@ -1,10 +1,10 @@
 ## ARTIFY
 
-The Artify out of school club website is a landing page for parents looking for a fun out of school art club for their children aged 5 to 11. The club offers interesting activities for children to learn new art techniques from a young age and the chance to develop their creative skills.
+The Artify out of school club website displays a landing page for parents looking for a fun out of school art club for their children aged 5 to 11 upon accessing the site. The club offers interesting activities for children to learn new art techniques from a young age and the chance to develop their creative skills.
 
 Users of the site will be able to find all the information needed to know about the clubs on offer including meeting times, pricing a sign up form and the ability to contact the club with any further questions. The site is targeted towards parents of children who want to be creative in a more structured way.
 
-![ResponsiveScreensho](https://github.com/gjwilson20/Artify/assets/166746021/756cd282-aca4-49b1-a864-80aee1ad061e)
+![ResponsiveScreenshot](https://github.com/gjwilson20/Artify/assets/166746021/756cd282-aca4-49b1-a864-80aee1ad061e)
 
 ***
 
@@ -28,6 +28,18 @@ Users of the site will be able to find all the information needed to know about 
 Below is a design template on how I would like my site to look in an attempt to meet my user stories above.
 
 ![wireframe](assets/readme_img/wireframe.jpg)
+
+I have got a clear navigation bar at the top which displays the club logo (so that the brand is easily recognisable) along with different links to press which will take you to different parts of the page.
+
+The sections of the site are clearly defined through the use of colour and borders. 
+
+There are images to go onto the site to show children enjoying the activities they are receiving at the club.
+
+There is a clear sign up section which will give details of the club rota in a table format and then allow adults to submit a form stating which club they would like to sign their child up to.
+
+In the bottom section, there is going to be a freeform text box to allow adults to contact the club should they need further information.
+
+At the very end of the page will be social media links through the use of social media icons which will open in new tabs.
 
 ***
 
