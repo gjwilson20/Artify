@@ -169,12 +169,16 @@ The social media logos act as links and take users away from the site by opening
 
 
 ## Bugs
-when I deployed the project to GitHub Pages I discovered that there were a number of typing errors including / not needed and forms with no closing tags etc.  
+When I deployed the project to GitHub Pages I discovered that there were a number of typing errors included. These syntax errors were corrected with text being removed or added as appropriate.
 
-I also found that some file names were not useable due to spaces left between words. These have been rectified.
+When deploying I also noticed that there were some forms with no closing tags at that point and ensure they were included to make sure that the forms worked.  
+
+I also found that some file names were not useable due to spaces left between words. These broken file paths were fixed and the spaces removed to ensure they worked correctly and made my site function how I'd like it to. 
+
+These above errors have all been rectified.
 
 ## unfixed bugs
-there are no unfixed bugs
+There are no unfixed bugs left when deploying the site.
 
 ## deployment
 The site was deployed to github pages
