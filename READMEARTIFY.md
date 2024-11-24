@@ -9,9 +9,9 @@ Users of the site will be able to find all the information needed to know about 
 ***
 
 ## User Stories 
-|Story No.|Story|
-| ------------- | ------------- |
-|1| As a user, <br> I want to be able to access the site on laptop, tablet and mobile devices <br> so that I can easily access the site whenever I need to  <br><br>I know I am done when users can access the site in a range of ways |
+|Story No.|Story|Testing|
+| ------------- | ------------- | ------------- |
+|1| As a user, <br> I want to be able to access the site on laptop, tablet and mobile devices <br> so that I can easily access the site whenever I need to  <br><br>I know I am done when users can access the site in a range of ways | I tested this by checking this worked in Chrome, explorer, on my ipad, on my phone and on my laptop|
 |2|As a user, <br> I want to be able to recognise the brand easily <br> so that I know I am viewing the right page for my needs.<br><br>I know I am done when users can recognise the site easily through colours, logo and favicons.|
 |3|As a user, <br> I want to be able to navigate the site easily <br> so that I can find the relevant information I need quickly and efficiently. <br><br> I know I am done when users can find different sections of the site with ease.|
 |4|As a user<br> I want to be able to access the site's social media easily <br> so that I can review the content of the clubs to know their suitability for my needs. <br> <br> I know I am done when users can view the social media sites easily through icons in the footer.|
