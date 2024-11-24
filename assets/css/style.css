@@ -148,6 +148,11 @@ img2 {
     height: auto;
   }
 
+iframe {
+    max-width: 100%;
+    height: auto;
+  }
+
   .paradiv{
     padding-right: 10px;
   }
