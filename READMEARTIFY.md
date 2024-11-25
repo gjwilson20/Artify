@@ -223,7 +223,7 @@ There are no unfixed bugs left when deploying the site.
 ### Content
 - Processes from the CI Love Running project wer used to help create this website - [CI Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
 
-- HTML, CSS and Javascript code help was taken from w3schools - [W3Schools](https://www.w3schools.com/) and [StackOverflow](https://stackoverflow.com/)
+- HTML, CSS and Javascript code help was taken from w3schools - [W3Schools](https://www.w3schools.com/) and Stack Overflow - [StackOverflow](https://stackoverflow.com/)
 
 ### Media
 #### Images
@@ -232,8 +232,7 @@ There are no unfixed bugs left when deploying the site.
 - logo was generated on [BrandCrowd](https://www.brandcrowd.com/maker/logos/page1?Text=Artify&SearchText=art,+creative,+design&WasModalContinueClicked=true)
 
 #### Videos
-- The video in the about us section is from the YouTube channel - [Artful Parents](https://www.youtube.com/watch?v=hT4KXR1TlzM))
+- The video in the about us section is from the YouTube channel - [Artful Parents](https://www.youtube.com/watch?v=hT4KXR1TlzM)
 
 #### Icons
 - All page Icons - [Font Awesome](https://fontawesome.com/)
-
