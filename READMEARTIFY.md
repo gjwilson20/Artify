@@ -167,6 +167,7 @@ The social media logos act as links and take users away from the site by opening
 
 ![lighthouse](https://github.com/gjwilson20/Artify/assets/166746021/701a8095-c96a-4b2f-9aad-3fc37f322d1c)
 
+***
 
 ## Bugs
 When I deployed the project to GitHub Pages I discovered that there were a number of typing errors included. These syntax errors were corrected with text being removed or added as appropriate.
@@ -180,14 +181,44 @@ These above errors have all been rectified.
 ## unfixed bugs
 There are no unfixed bugs left when deploying the site.
 
-## deployment
-The site was deployed to github pages
-the steps to deploy are as follows:
-  - in the github repository click on deployments on the right hand side
-  - when the new screen opens click on the open link in new tab button next to the top deployment
-a link can be found here ![Artify](https://gjwilson20.github.io/Artify/)
+***
 
-## credits
+## Deployment
+
+### Cloning & Forking
+#### Fork
+1. On GitHub.com, navigate to the [gjwilson20/Artify](https://github.com/gjwilson20/Artify) repository.
+2. In the top-right corner of the page, click Fork.
+3. Forks are named the same as their parent repositories by default. You can change the name of the fork to whatever you choose.
+4. Add a description to your fork.
+5. Click Create fork.
+
+#### Clone
+1. Above the list of files click the button that says 'Code'.
+2. Copy the URL for the repository.
+3. Open Terminal. Change the directory to the location where you want the cloned directory.
+4. Type git clone, and then paste the URL
+5. Press Enter.
+
+### Local Deployment
+1. Sign up to [Gitpod](https://gitpod.io/)
+2. Download the Gitpod browser extension.
+3. On GitHub.com, navigate to the [gjwilson20/Artify](https://github.com/gjwilson20/Artify) repository.
+4. Above the list of files click the button that says 'Gitpod'.
+
+### Remote Deployment 
+ The site was deployed to Github pages. If you have forked/cloned the repository the steps to deploy are:
+ 1. On GitHub.com, navigate to your repository.
+ 2. Navigate to the settings tab.
+ 3. Click on the tab called 'pages' on the left hand side.
+ 4. From the source drop down list under the heading Build and deployment, select main.
+ 5. The page will hten provide the link to the website.
+
+ The live link can be found here - [Artify](https://gjwilson20.github.io/Artify/)
+
+***
+
+## Credits
 ### content
 the code to make the drop down toggle in the nav bar was taken from the love running project and from notes I had made along the way. 
 
