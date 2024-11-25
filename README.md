@@ -80,6 +80,8 @@ The pencil fits with the art club theme and when clicked opens up the navigation
 
 The section gives details about what the club offers their members and has an image of children promoting the club which was taken from Pexels.
 
+This section also opens up with a youtube video of children involved in an art club to try an exemplify the type of activities in the club ![Video](assets/readme_img/video.jpg)
+
 The section clearly talks about some of the activities which would be on offer to pupils.
 
 The background colour links to the primary colours associated with the brand and allows you to know you're still in that section and not gone into another.
