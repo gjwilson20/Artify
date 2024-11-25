@@ -219,10 +219,21 @@ There are no unfixed bugs left when deploying the site.
 ***
 
 ## Credits
-### content
-the code to make the drop down toggle in the nav bar was taken from the love running project and from notes I had made along the way. 
 
-When coding the site I used a range of websites to troubleshoot problems I came across and ended up typing code from places to see if it worked, I often had to amend this to make it fit my design and ensure it worked for my project. Sites i looked at included w3schools and Stackoverflow. 
+### Content
+- Processes from the CI Love Running project wer used to help create this website - [CI Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
 
-### media
-the images used on the site were taken from pexels
+- HTML, CSS and Javascript code help was taken from w3schools - [W3Schools](https://www.w3schools.com/) and [StackOverflow](https://stackoverflow.com/)
+
+### Media
+#### Images
+- Images on the site were taken from - [Pexels](https://www.pexels.com/)
+
+- logo was generated on [BrandCrowd](https://www.brandcrowd.com/maker/logos/page1?Text=Artify&SearchText=art,+creative,+design&WasModalContinueClicked=true)
+
+#### Videos
+- The video in the about us section is from the YouTube channel - [Artful Parents](https://www.youtube.com/watch?v=hT4KXR1TlzM))
+
+#### Icons
+- All page Icons - [Font Awesome](https://fontawesome.com/)
+
